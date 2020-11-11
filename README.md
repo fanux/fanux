@@ -4,7 +4,6 @@
 - 🤔 喜欢围棋
 - 💬 和看棋魂会哭的人有共同语言
 - 📫 遵从自己的内心，不喜欢被规则束缚
-- 😄 是个坏人
-- ⚡  会飞的小王子
+- ⚡  成为小王子
 
 ![](https://github.com/fanux/fanux/blob/main/avatar.png?raw=true)
