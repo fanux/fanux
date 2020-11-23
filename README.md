@@ -20,5 +20,3 @@
 1. 初中时证明了 π=n*sin(180/n) (n趋向正无穷)
 2. 大学围棋冠军
 3. 开源与商业化结合，期待有一天开源项目能养活自己~
-
-![](https://github.com/fanux/fanux/blob/main/avatar.png?raw=true)
