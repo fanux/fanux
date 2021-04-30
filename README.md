@@ -1,8 +1,8 @@
-- 🌱 创业->科大讯飞->阿里巴巴
-- 👯 喜欢把日记写在代码里...
-- 🤔 喜欢围棋
-- 💬 和看棋魂会哭的人有共同语言
-- 📫 遵从自己的内心，不喜欢被规则束缚
+<p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=fanux&title=Star,Follower" style="max-width:100%;">
+</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fanux&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## 开源经历
 
